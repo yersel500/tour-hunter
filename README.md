@@ -12,7 +12,7 @@ You can find the app live [here](https://tourhunterapp.herokuapp.com
 
 ## Back-end Repository
 
-You can find the back-end API [here](https://github.com/leopiresgoss/tour-hunter-api).
+You can find the back-end API [here](https://github.com/yersel500/tour-hunter-api).
 
 ## Built With
 
