@@ -49,6 +49,12 @@ In the project directory, you can run:
 
 ## Authors
 
+👤 **Yersel Hurtado** (Leader)
+
+- GitHub: [@yersel500](https://github.com/yersel500/)
+- LinkedIn: [Yersel Hurtado](https://www.linkedin.com/in/yersel-hurtado/)
+- Twitter: [@YerselHurtado](https://twitter.com/YerselHurtado)
+
 👤 **Mengstu Fentaw**
 
 - Github: [@mengiefen](https://github.com/mengiefen)
@@ -72,12 +78,6 @@ In the project directory, you can run:
 - GitHub: [@Behnam1369](https://github.com/Behnam1369)
 - LinkedIn: [@Behnam-Aghaali](https://www.linkedin.com/in/behnam-aghaali)
 - Twitter: [@Behnamagh1369](https://twitter.com/behnamagh1369)
-
-👤 **Yersel Hurtado**
-
-- GitHub: [@yersel500](https://github.com/yersel500/)
-- LinkedIn: [Yersel Hurtado](https://www.linkedin.com/in/yersel-hurtado/)
-- Twitter: [@YerselHurtado](https://twitter.com/YerselHurtado)
 
 ## 🤝 Contributing
 
